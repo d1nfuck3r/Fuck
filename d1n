@@ -1,0 +1,55 @@
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/zpd11ts9ydkghi9rpbroj/250-Digital-tv.png?rlkey=ogjii56172f8p6znn42lcwuwi&dl=1",ALL TV
+#EXTVLCOPT:http-user-agent=alltv
+https://freenote.biz/raw/5mrrcnpdln
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/zpd11ts9ydkghi9rpbroj/250-Digital-tv.png?rlkey=ogjii56172f8p6znn42lcwuwi&dl=1",ALL TV2
+#EXTVLCOPT:http-user-agent=alltv2
+https://freenote.biz/raw/0kgyvo6ewu
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsUHi7Fw9RjsjzGz-tRIBKhFIENLvmUa-aAA&s",DOODEE
+#EXTVLCOPT:http-user-agent=doodee
+https://pastebin.com/raw/aa1V1hMp
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://media4.giphy.com/media/5ZYFKsDQV5y0cgsoin/giphy.gif",ละครไทย
+#EXTVLCOPT:http-user-agent=ละครไทย
+https://shorturl.at/aioPY
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/j2ea1y9npb3jkacgfz79z/250-sports.png?rlkey=9qpw4lihuefd1a1kxock48xo0&dl=1", SPORT 
+#EXTVLCOPT:http-user-agent=sport 
+https://wandering-oldman.github.io/sport38/sport38.html
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/90d1f2asaiu4f5qtykfau/250-movie-live.png?rlkey=zlqdkjcr3n4shi9pt4rxz4fxn&dl=1", MOVIE LIVE
+#EXTVLCOPT:http-user-agent=movielive
+https://wandering-oldman.github.io/movies-live38/movies-live38.html
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/yj2p3y8fn03pjnluh1tk7/250-documentary.png?rlkey=ouwv1wlracb4goqbo5q718aq2&dl=1", DOCUMENTARY
+#EXTVLCOPT:http-user-agent=documentary
+https://wandering-oldman.github.io/documentary38/document38.html
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/4xdm2w9mwgmvb8qe4ic2b/250-cartoon.png?rlkey=ly2jqnszurvou66rbvjzanvb9&dl=1", CARTOON
+#EXTVLCOPT:http-user-agent=cartoon
+https://www.dropbox.com/scl/fi/79a59qeo4l588sws17yts/cartoon.w3u?rlkey=u807fslqjpjsecnxc6hl65thc&dl=1
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/k9vhhcmizw7dvijnc2j93/250-world-news.png?rlkey=jy1k44j9lzs14vynayzgv0rxh&dl=1",World NEWS
+#EXTVLCOPT:http-user-agent=worldnews
+https://wandering-oldman.github.io/world-news/all-world-news.html
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/wwf09qczu6dlsoepm63tr/250-all-world-sports.png?rlkey=eagei3vsif4f059fuatpd4ula&dl=1",All World Sports
+#EXTVLCOPT:http-user-agent=allworldsports
+https://wandering-oldman.github.io/main-all-world-sports/main-all-world-sports.html
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/atjh3e9frfbbsrl6ctem8/259.png?rlkey=kmuuc6ty9ea15fmhaqi004ckg&dl=1",สารคดี
+#EXTVLCOPT:http-user-agent=สาระดี
+https://wandering-oldman.github.io/main-documentary/main-documentary.html
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/z61ppox364ivg2q16griy/250-dookeela.png?rlkey=e1j15vpwc0lpj7e6vgi7822wk&dl=1",DOOKEELA
+#EXTVLCOPT:http-user-agent=dookeela 
+https://wandering-oldman.github.io/dookeela/dookeela.html
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/8o0earglp257hch766p4r/250-all-movies.png?rlkey=ptia34c0vihqt0tejgxng23u5&dl=1",ALL MOVIE
+#EXTVLCOPT:http-user-agent=allmovie
+https://udzaa2238.github.io/all-movies/all-moives.html
+
+#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-id="" tvg-logo="https://www.dropbox.com/scl/fi/t9r48rghiljd8jw4xfrr6/250-online.png?rlkey=9a42ryls1z3d69j5d3lmgnud1&dl=1",TV ONLINE
+#EXTVLCOPT:http-user-agent=tvonline
+https://wandering-oldman.github.io/online/online.html
