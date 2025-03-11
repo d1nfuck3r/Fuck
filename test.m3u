@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="สารคดีมนุษย์ต่างดาว555555" tvg-logo="https://d3ffi1kkogkk1a.cloudfront.net/imageStore/img_1669263736773.jpg" ,เผชิญหน้ามนุษย์ต่างดาว
-#EXT-X-MEDIA:TYPE=STEREO,GROUP-ID="audiod",NAME="audio_thai",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="thai"
+#EXT-X-MEDIA:TYPE=STEREO,GROUP-ID="audio",NAME="thai,stereo",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="4",LANGUAGE="thai"
 http://nextstep-sooyp4zfonli.stream-playlist.byteark.com:80/streams/TADsX2qmx75D/playlist.m3u8
 
