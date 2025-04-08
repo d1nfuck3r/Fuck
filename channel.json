@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "last_updated": "2025-04-08",
+  "channels": [
+    {"id": "play_live", "url": "https://raw.githubusercontent.com/d1nfuck3r/Fuck/refs/heads/main/livetv.m3u", "name": "TV ONLINE"},
+    {"id": "play_1_movie", "url": "https://raw.githubusercontent.com/d1nfuck3r/Fuck/refs/heads/main/MOVIE/series1.m3u", "name": "MOVIE & SERIES"},
+    {"id": "play_10_lkids", "url": "https://raw.githubusercontent.com/d1nfuck3r/Fuck/refs/heads/main/MOVIE/movie4.m3u", "name": "KIDS"},
+    {"id": "play_11_sport", "url": "https://raw.githubusercontent.com/d1nfuck3r/Fuck/refs/heads/main/MOVIE/DOCUMENTARY.m3u", "name": "SPORTS"},
+    {"id": "play_2_tv", "url": "https://raw.githubusercontent.com/d1nfuck3r/Fuck/refs/heads/main/MOVIE/series2.m3u", "name": "INDONESIA"},
+    {"id": "play_3_china", "url": "https://raw.githubusercontent.com/d1nfuck3r/Fuck/refs/heads/main/MOVIE/series3.m3u", "name": "CHINA"},
+    {"id": "play_4_korea", "url": "https://raw.githubusercontent.com/d1nfuck3r/Fuck/refs/heads/main/MOVIE/series4.m3u", "name": "KOREA"},
+    {"id": "play_5_japan", "url": "https://raw.githubusercontent.com/d1nfuck3r/Fuck/refs/heads/main/MOVIE/movie1.m3u", "name": "JAPAN"},
+    {"id": "play_6_anime", "url": "https://raw.githubusercontent.com/d1nfuck3r/Fuck/refs/heads/main/MOVIE/movie2.m3u", "name": "ANIME"},
+    {"id": "play_7_series", "url": "https://raw.githubusercontent.com/d1nfuck3r/Fuck/refs/heads/main/MOVIE/movie3.m3u", "name": "SERIES"},
+    {"id": "play_8_china2", "url": "https://drive.google.com/uc?id=1PleSZ4nGFYbnWKjjE_oAW7YpiCJxzke3", "name": "CHINA 2"},
+    {"id": "play_9_lmusic", "url": "https://raw.githubusercontent.com/d1nfuck3r/Fuck/refs/heads/main/MOVIE/cartoon_movie.m3u", "name": "MUSIC"}
+  ],
+  "footer": {
+    "message": "Data provided by xAI"
+  }
+}
